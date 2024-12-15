@@ -21,12 +21,12 @@
       <td align="center">
   <img src="https://avatars.githubusercontent.com/u/112750856?v=4" width="100px;" alt="Song Chae-young's profile photo"/><br />
   <sub><b>송채영</b></sub><br />
-  <a href="https://github.com/cy0286">lkhyun</a>
+  <a href="https://github.com/cy0286">cy0286</a>
 </td>
        <td align="center">
   <img src="https://avatars.githubusercontent.com/u/101550897?v=4" width="100px;" alt="Jo Hyun-ho's profile photo"/><br />
   <sub><b>조현호</b></sub><br />
-  <a href="https://github.com/178kg78cm">lkhyun</a>
+  <a href="https://github.com/178kg78cm">178kg78cm</a>
 </td>
     </tr>
   </tbody>
