@@ -7,6 +7,7 @@
 
 <header>
     <h3> 💻 팀원 소개 </h3>
+    
 </header>
   
 <table>
